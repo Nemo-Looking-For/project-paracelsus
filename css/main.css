@@ -325,7 +325,7 @@ html,body {
 
     .title-1 {
         margin-bottom: 30px;
-        font-size: 40px;
+        font-size: 28px;
     }
 
     .title-2 {
@@ -335,6 +335,10 @@ html,body {
 
     .project__title {
         font-size: 18px;
+    }
+
+    .project-details {
+        min-width: 320px;
     }
 
     .footer {
